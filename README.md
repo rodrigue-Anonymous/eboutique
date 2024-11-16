@@ -187,7 +187,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 ## Auteurs
 
-- Votre nom
+- RODRIGUE FAHOUBO OU <<< Dofaro>>>
 
 ## Licence
 
